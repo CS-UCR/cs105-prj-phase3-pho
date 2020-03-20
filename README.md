@@ -6,6 +6,7 @@ Drive with extra files: https://drive.google.com/open?id=10yeUBhZMb-XnzOuceJk0q1
 For information about phases 1 and 2 use the two links below
 
 https://github.com/CS-UCR/cs105-prj-phase1-pho
+
 https://github.com/CS-UCR/cs105-prj-phase2-pho
 
 For my dataset, I am using in game information about League of Legends games. This dataset included information such as gold, xp, level, minionsKilled, and jungleMinionsKilled. I was wondering what the best ways to calculate the level without using xp because the requirements for a level in League of Legends is always the same so the accuracy would be 100% accurate. 
