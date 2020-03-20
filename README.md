@@ -14,3 +14,5 @@ For my dataset, I am using in game information about League of Legends games. Th
 For my analysis process I started by cleaning the data and then ran Linear regression and KNN on each inputs and outputs I decided to use. I write my observations and colclusions in the Jupyter file.
 
 To my suprise however, totalMinionsKilled performed slightly worse than just using both minionsKilled and jungleMinionsKilled. It could mean there is a bigger discrepency in the amount of golf a player gets between jungle minions and regular minions when it should be about the same. The difference is small in the accuracies, but totalMinonsKilled performed slightly worse in both cases tested.
+
+To run the code you need to get the back2 file in the google drive linked above.
